@@ -15,6 +15,7 @@ Ta repozitorij hrani vse za carousele profila **@fitnesdanijel** (Instagram `fit
 - Barve: modra `#1F3BE0`, krem `#FBF3E2`, črna `#111111`.
 - Pisavi: Barlow Condensed 900 (naslovi), Barlow (besedilo).
 - Lik: izrezane poze v `lik/`. Imena poz za `"pose"` so v slovarju `POSES` v `orodja/naredi.py`: `ledja, pokazuje, dupli, povrce, voda, obrok, cucanj, sklek, trk, hod-napred, hod-profil, san`. Datoteki `lik-04-odmor.png` in `lik-14-okret.png` nista v uporabi (prva ima svetel madež, druga je list s 4 pogledi).
+- Postavitev se namenoma menja, da objave niso enake: 3 različice naslovnice, 4 različice slajda z nasvetom (lok desno, lok levo, modra podlaga, pas zgoraj) in 2 zaključka. Izbiro določa številka objave v `orodja/naredi.py`; barve, pisave in ton besedila ostanejo vedno isti. Po želji lahko objavi v JSON dodaš `"cover_layout"` in `"layouts"`.
 - Znotraj ene objave naj se poza ne ponovi. Zaključek tipa plan uporablja `pokazuje`. Poza naj se vsaj približno ujema z vsebino slajda.
 - Nove poze: Danijel jih pošlje sam. Ozadje odstraniš s `orodja/cut.py` (prilagodi poti), datoteko dodaš v `lik/` in vnos v `POSES`.
 
