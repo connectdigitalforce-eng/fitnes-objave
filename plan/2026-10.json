@@ -1,0 +1,130 @@
+{
+  "posts": [
+    {
+      "n": 2, "date": "2026-10-12", "type": "follow", "kicker": "Mršavljenje · mitovi",
+      "tiktok_title": "5 mitova o mršavljenju u koje još veruješ",
+      "cover": {"big": "5 mitova", "lines": ["o mršavljenju", "u koje još", "veruješ"], "sub": "Zbog njih se mučiš više nego što treba.", "pose": "pokazuje"},
+      "tips": [
+        {"word": "Hleb", "title": "Ugljeni hidrati goje", "body": "Goji višak kalorija, ne hleb ili pirinač sami po sebi.", "action": "Zadrži ih, smanji porciju.", "pose": "obrok"},
+        {"word": "Znoj", "title": "Znojenje topi masti", "body": "Znojem gubiš vodu, ne masno tkivo. Vrati se čim popiješ čašu vode.", "action": "Prati obim struka, ne znoj.", "pose": "trk"},
+        {"word": "Sat", "title": "Ne jedi posle 18h", "body": "Sat ne odlučuje. Važno je koliko pojedeš tokom celog dana.", "action": "Večeraj normalno, bez grickanja posle.", "pose": "povrce"},
+        {"word": "Trbuh", "title": "Trbušnjaci tope stomak", "body": "Masti ne možeš da skidaš na jednom mestu. Skidaš ih sa celog tela.", "action": "Radi vežbe za celo telo.", "pose": "sklek"},
+        {"word": "Tempo", "title": "Brže je bolje", "body": "Što brže skineš, lakše se vrati. Zdrav tempo je oko 0,5 do 1 kg nedeljno.", "action": "Postavi cilj za mesec, ne za nedelju.", "pose": "hod-profil"}
+      ],
+      "cta": {"pose": "dupli", "teaser": "kalorijski deficit u 5 koraka"},
+      "caption": "5 mitova o mršavljenju zbog kojih se mučiš više nego što treba.\n\n1. Ugljeni hidrati goje. Goji višak kalorija, ne hleb.\n2. Znojenje topi masti. Znojem gubiš vodu.\n3. Ne jedi posle 18h. Važan je ceo dan, ne sat.\n4. Trbušnjaci tope stomak. Masti se skidaju sa celog tela.\n5. Brže je bolje. Zdrav tempo je oko 0,5 do 1 kg nedeljno.\n\nU koji od ovih si ti verovao? Napiši broj u komentar.\n\nZaprati @fitnesdanijel za novi savet svakog ponedeljka, srede i petka.\n\n#mrsavljenje #fitnes #zdravenavike #ishrana #mitovi #zdravzivot #trening #dijeta #zdravlje #motivacija"
+    },
+    {
+      "n": 3, "date": "2026-10-14", "type": "plan", "kicker": "Mršavljenje · osnove",
+      "tiktok_title": "Kalorijski deficit u 5 koraka",
+      "cover": {"big": "5 koraka", "lines": ["do kalorijskog", "deficita"], "sub": "Bez gladovanja i bez komplikovanja.", "pose": "dupli"},
+      "tips": [
+        {"word": "Manje", "title": "Jedi manje nego što trošiš", "body": "To je deficit. Bez njega nema mršavljenja, koju god dijetu da izabereš.", "action": "Zapiši šta danas pojedeš.", "pose": "obrok"},
+        {"word": "Minus", "title": "Kreni sa malim minusom", "body": "300 do 500 kalorija manje dnevno je dovoljno. Veći minus se teško drži.", "action": "Izbaci jedno slatko piće ili užinu.", "pose": "voda"},
+        {"word": "Tanjir", "title": "Napuni tanjir povrćem", "body": "Mnogo zapremine, malo kalorija. Sit si, a i dalje u deficitu.", "action": "Pola tanjira neka bude povrće.", "pose": "povrce"},
+        {"word": "Snaga", "title": "Čuvaj mišiće", "body": "Proteini i trening snage čuvaju mišiće dok skidaš masti.", "action": "Dodaj protein svakom obroku.", "pose": "cucanj"},
+        {"word": "Prosek", "title": "Prati nedelje, ne dane", "body": "Kilaža iz dana u dan skače zbog vode. Gledaj prosek cele nedelje.", "action": "Meri se ujutru i računaj prosek.", "pose": "ledja"}
+      ],
+      "cta": {"pose": "pokazuje"},
+      "caption": "Kalorijski deficit zvuči komplikovano, a svodi se na 5 koraka.\n\n1. Jedi manje nego što trošiš\n2. Kreni sa malim minusom, 300 do 500 kalorija dnevno\n3. Napuni tanjir povrćem\n4. Čuvaj mišiće proteinima i treningom snage\n5. Prati prosek nedelje, ne svaki dan\n\nBez gladovanja i bez zabranjene hrane.\n\nŽeliš plan za 21 dan? Napiši PLAN u komentar i šaljem ti link u poruku.\n\nSačuvaj objavu da je imaš pri ruci.\n\n#mrsavljenje #kalorijskideficit #fitnes #ishrana #zdravenavike #zdravzivot #trening #proteini #zdravlje #motivacija"
+    },
+    {
+      "n": 4, "date": "2026-10-16", "type": "follow", "kicker": "Trening · početnici",
+      "tiktok_title": "5 vežbi za početak bez teretane",
+      "cover": {"big": "5 vežbi", "lines": ["za početak", "bez teretane"], "sub": "Celo telo, bez opreme, kod kuće.", "pose": "hod-napred"},
+      "tips": [
+        {"word": "Noge", "title": "Čučanj", "body": "Stopala u širini ramena, kukovi nazad, kolena prate prste.", "action": "3 serije po 10 ponavljanja.", "pose": "cucanj"},
+        {"word": "Grudi", "title": "Sklek", "body": "Telo u jednoj liniji. Pretežak? Radi ga sa kolena ili uz sto.", "action": "3 serije, koliko možeš čisto.", "pose": "sklek"},
+        {"word": "Korak", "title": "Iskorak", "body": "Dug korak napred, spusti zadnje koleno skoro do poda.", "action": "3 serije po 8 na svaku nogu.", "pose": "hod-profil"},
+        {"word": "Trup", "title": "Plank", "body": "Laktovi ispod ramena, stomak stegnut, kukovi ne padaju.", "action": "3 puta po 20 do 30 sekundi.", "pose": "pokazuje"},
+        {"word": "Kuk", "title": "Podizanje kukova", "body": "Lezi na leđa, stopala na pod, podigni kukove i stegni zadnjicu.", "action": "3 serije po 12 ponavljanja.", "pose": "ledja"}
+      ],
+      "cta": {"pose": "dupli", "teaser": "šta kad kilaža stane"},
+      "caption": "Ne treba ti teretana da počneš. Ovih 5 vežbi pokriva celo telo.\n\n1. Čučanj, 3 x 10\n2. Sklek, 3 serije koliko možeš čisto\n3. Iskorak, 3 x 8 na svaku nogu\n4. Plank, 3 x 20 do 30 sekundi\n5. Podizanje kukova, 3 x 12\n\nRadi ih 2 do 3 puta nedeljno, sa danom pauze između.\n\nAko imaš bol ili povredu, prvo se posavetuj sa lekarom ili fizioterapeutom.\n\nZaprati @fitnesdanijel za novi savet svakog ponedeljka, srede i petka.\n\n#trening #vezbekodkuce #fitnes #pocetnici #zdravenavike #cucanj #sklekovi #zdravzivot #treningkodkuce #motivacija"
+    },
+    {
+      "n": 5, "date": "2026-10-19", "type": "plan", "kicker": "Mršavljenje · zastoj",
+      "tiktok_title": "Kilaža stoji? Proveri ovih 5 stvari",
+      "cover": {"big": "Kilaža stoji?", "lines": ["proveri ovih", "5 stvari"], "sub": "Zastoj je normalan. Evo gde da gledaš.", "pose": "ledja"},
+      "tips": [
+        {"word": "Mera", "title": "Proveri porcije", "body": "Porcije vremenom neprimetno porastu. Izmeri ih nekoliko dana.", "action": "Izmeri danas ulje i grickalice.", "pose": "povrce"},
+        {"word": "Hod", "title": "Broj korake", "body": "Kad jedeš manje, nesvesno se i manje krećeš. Koraci to otkriju.", "action": "Dodaj 2.000 koraka dnevno.", "pose": "hod-profil"},
+        {"word": "San", "title": "Spavaj više", "body": "Manjak sna pojačava glad i želju za slatkim.", "action": "Lezi 30 minuta ranije.", "pose": "san"},
+        {"word": "Vikend", "title": "Pazi na vikend", "body": "Dva dana bez kontrole mogu da ponište pet dobrih dana.", "action": "Isplaniraj jedan obrok za uživanje.", "pose": "obrok"},
+        {"word": "Vreme", "title": "Daj telu vremena", "body": "Dve nedelje bez promene još nisu zastoj. Voda često sakrije napredak.", "action": "Izmeri obim struka, ne samo kilažu.", "pose": "voda"}
+      ],
+      "cta": {"pose": "pokazuje"},
+      "caption": "Kilaža stoji, a ti radiš sve kako treba? Pre nego što odustaneš, proveri ovih 5 stvari.\n\n1. Porcije, jer vremenom neprimetno porastu\n2. Koraci, jer se uz manje hrane manje i krećeš\n3. San, jer manjak sna pojačava glad\n4. Vikend, jer dva dana mogu da ponište pet\n5. Vreme, jer dve nedelje još nisu zastoj\n\nZastoj je normalan deo puta.\n\nŽeliš plan za 21 dan? Napiši PLAN u komentar i šaljem ti link u poruku.\n\n#mrsavljenje #zastoj #fitnes #ishrana #zdravenavike #zdravzivot #kilaza #trening #zdravlje #motivacija"
+    },
+    {
+      "n": 6, "date": "2026-10-21", "type": "follow", "kicker": "Ishrana · šećer",
+      "tiktok_title": "5 namirnica koje zvuče zdravo, a pune su šećera",
+      "cover": {"big": "5 namirnica", "lines": ["koje zvuče", "zdravo, a pune", "su šećera"], "sub": "Čitaj deklaraciju, ne prednju stranu.", "pose": "pokazuje"},
+      "tips": [
+        {"word": "Jogurt", "title": "Voćni jogurt", "body": "Jedna čašica često ima 2 do 3 kašičice dodatog šećera.", "action": "Uzmi običan i dodaj voće.", "pose": "obrok"},
+        {"word": "Ovas", "title": "Granola", "body": "Zvuči zdravo, ali je često zaslađena medom i sirupima.", "action": "Biraj obične ovsene pahuljice.", "pose": "povrce"},
+        {"word": "Sok", "title": "Voćni sok", "body": "I stoprocentni sok ima šećera skoro kao gazirano piće, a nema vlakna.", "action": "Pojedi celo voće.", "pose": "voda"},
+        {"word": "Šećer", "title": "Proteinska pločica", "body": "Mnoge su po sastavu bliže čokoladici nego obroku.", "action": "Proveri šećer na 100 grama.", "pose": "hod-napred"},
+        {"word": "Smuti", "title": "Kupovni smuti", "body": "Velika čaša lako pređe 300 kalorija, uglavnom iz šećera.", "action": "Napravi ga kod kuće.", "pose": "trk"}
+      ],
+      "cta": {"pose": "dupli", "teaser": "kako smršati bez brojanja kalorija"},
+      "caption": "Na pakovanju piše \"fit\" i \"prirodno\", a unutra je šećer.\n\n1. Voćni jogurt\n2. Granola\n3. Voćni sok\n4. Proteinska pločica\n5. Kupovni smuti\n\nNe moraš da ih izbaciš. Samo okreni pakovanje i pogledaj koliko šećera ima na 100 grama.\n\nKoja te je najviše iznenadila? Napiši u komentar.\n\nZaprati @fitnesdanijel za novi savet svakog ponedeljka, srede i petka.\n\n#ishrana #secer #zdravaishrana #fitnes #zdravenavike #mrsavljenje #zdravzivot #deklaracija #zdravlje #motivacija"
+    },
+    {
+      "n": 7, "date": "2026-10-23", "type": "plan", "kicker": "Mršavljenje · pravila",
+      "tiktok_title": "Kako smršati bez brojanja kalorija",
+      "cover": {"big": "Bez brojanja", "lines": ["kalorija:", "5 pravila"], "sub": "Jednostavna pravila umesto aplikacije.", "pose": "hod-napred"},
+      "tips": [
+        {"word": "Prvo", "title": "Protein prvo", "body": "Svaki obrok počni od proteina. Zasiti te i smanji grickanje.", "action": "Isplaniraj protein za večeru.", "pose": "obrok"},
+        {"word": "Tanjir", "title": "Jedi iz tanjira", "body": "Ne jedi iz kese ni iz šerpe. Sipaj porciju i skloni ostatak.", "action": "Sipaj porciju pre nego što sedneš.", "pose": "povrce"},
+        {"word": "Tri", "title": "Tri obroka dnevno", "body": "Redovni obroci znače manje napada gladi i manje grickanja.", "action": "Odredi vreme za svoja 3 obroka.", "pose": "cucanj"},
+        {"word": "Sporo", "title": "Jedi polako", "body": "Signal sitosti stiže sa zakašnjenjem. Ko jede brzo, pojede više.", "action": "Spusti viljušku između zalogaja.", "pose": "voda"},
+        {"word": "Slatko", "title": "Planiraj slatko", "body": "Zabrane vode u prejedanje. Jedan planiran slatkiš je bolji izbor.", "action": "Odredi kada jedeš slatko ove nedelje.", "pose": "ledja"}
+      ],
+      "cta": {"pose": "pokazuje"},
+      "caption": "Ne moraš da brojiš svaku kaloriju da bi smršao. Dovoljno je 5 pravila.\n\n1. Protein prvo u svakom obroku\n2. Jedi iz tanjira, ne iz kese\n3. Tri redovna obroka dnevno\n4. Jedi polako\n5. Slatko planiraj, ne zabranjuj\n\nIzaberi jedno i drži ga se nedelju dana.\n\nŽeliš plan za 21 dan? Napiši PLAN u komentar i šaljem ti link u poruku.\n\nSačuvaj objavu da je imaš pri ruci.\n\n#mrsavljenje #ishrana #fitnes #zdravenavike #bezbrojanjakalorija #zdravzivot #proteini #zdravaishrana #zdravlje #motivacija"
+    },
+    {
+      "n": 8, "date": "2026-10-26", "type": "follow", "kicker": "Ishrana · glad",
+      "tiktok_title": "Zašto si uveče gladan: 5 razloga",
+      "cover": {"big": "Gladan uveče?", "lines": ["5 razloga", "i šta da uradiš"], "sub": "Nije stvar volje, nego navika tokom dana.", "pose": "ledja"},
+      "tips": [
+        {"word": "Ručak", "title": "Preskačeš obroke", "body": "Ko danju jede premalo, uveče nadoknadi duplo.", "action": "Ne preskači ručak.", "pose": "obrok"},
+        {"word": "Sit", "title": "Premalo proteina", "body": "Obroci bez proteina te brzo ostave gladnim.", "action": "Dodaj jaja, sir ili meso.", "pose": "povrce"},
+        {"word": "San", "title": "Premalo sna", "body": "Umor pojačava glad i želju za slatkim i slanim.", "action": "Večeras lezi ranije.", "pose": "san"},
+        {"word": "Navika", "title": "Jedeš iz dosade", "body": "Glad dolazi postepeno. Želja za grickanjem dolazi naglo.", "action": "Popij čašu vode i sačekaj 10 minuta.", "pose": "voda"},
+        {"word": "Sto", "title": "Grickalice pri ruci", "body": "Jedeš ono što vidiš. Što je bliže, pojedeš više.", "action": "Skloni ih sa stola u ormar.", "pose": "hod-profil"}
+      ],
+      "cta": {"pose": "hod-napred", "teaser": "vikend koji briše celu nedelju"},
+      "caption": "Ceo dan sve ide dobro, a uveče otvoriš frižider. Poznato?\n\n5 razloga zašto si uveče gladan:\n\n1. Preskačeš obroke tokom dana\n2. Jedeš premalo proteina\n3. Spavaš premalo\n4. Jedeš iz dosade, ne iz gladi\n5. Grickalice su ti na dohvat ruke\n\nNije stvar slabe volje. Reši dan i veče se reši samo.\n\nKoji je tvoj broj? Napiši u komentar.\n\nZaprati @fitnesdanijel za novi savet svakog ponedeljka, srede i petka.\n\n#ishrana #glad #mrsavljenje #fitnes #zdravenavike #zdravzivot #grickanje #proteini #zdravlje #motivacija"
+    },
+    {
+      "n": 9, "date": "2026-10-28", "type": "plan", "kicker": "Mršavljenje · vikend",
+      "tiktok_title": "Vikend koji ti briše celu nedelju",
+      "cover": {"big": "Vikend", "lines": ["koji ti briše", "celu nedelju"], "sub": "5 zamki i kako da ih izbegneš.", "pose": "dupli"},
+      "tips": [
+        {"word": "Piće", "title": "Tečne kalorije", "body": "Tri piva ili koktela lako su ceo obrok viška.", "action": "Posle svakog pića čaša vode.", "pose": "voda"},
+        {"word": "Obrok", "title": "Zaslužio sam", "body": "Pet dobrih dana nije razlog za dva dana bez granica.", "action": "Izaberi jedan obrok za uživanje.", "pose": "obrok"},
+        {"word": "Plan", "title": "Dan bez plana", "body": "Bez plana jedeš ono što je najbliže i najbrže.", "action": "Odluči unapred šta ručaš u subotu.", "pose": "povrce"},
+        {"word": "Kauč", "title": "Ceo dan na kauču", "body": "Vikendom se mnogi kreću mnogo manje nego radnim danima.", "action": "Ubaci šetnju od 30 minuta.", "pose": "hod-profil"},
+        {"word": "Ništa", "title": "Sve ili ništa", "body": "Jedan loš obrok ne kvari nedelju. Kvari je kad posle njega odustaneš.", "action": "Sledeći obrok vrati na normalno.", "pose": "trk"}
+      ],
+      "cta": {"pose": "pokazuje"},
+      "caption": "Od ponedeljka do petka sve po planu. A onda dođe vikend.\n\n5 zamki koje ti brišu celu nedelju:\n\n1. Tečne kalorije\n2. \"Zaslužio sam\"\n3. Dan bez plana\n4. Ceo dan na kauču\n5. Sve ili ništa\n\nNe moraš da se odrekneš vikenda. Dovoljno je da ga isplaniraš.\n\nŽeliš plan za 21 dan? Napiši PLAN u komentar i šaljem ti link u poruku.\n\n#mrsavljenje #vikend #fitnes #ishrana #zdravenavike #zdravzivot #trening #disciplina #zdravlje #motivacija"
+    },
+    {
+      "n": 10, "date": "2026-10-30", "type": "follow", "kicker": "Napredak · znaci",
+      "tiktok_title": "5 znakova napretka koje vaga ne vidi",
+      "cover": {"big": "5 znakova", "lines": ["napretka koje", "vaga ne vidi"], "sub": "Vaga meri kilograme, ne tebe.", "pose": "pokazuje"},
+      "tips": [
+        {"word": "Obim", "title": "Odeća je šira", "body": "Obim se menja i kad kilaža stoji.", "action": "Izmeri obim struka.", "pose": "ledja"},
+        {"word": "Snaga", "title": "Jači si", "body": "Više ponavljanja ili veći teret znači da napreduješ.", "action": "Zapiši današnji trening.", "pose": "sklek"},
+        {"word": "Dan", "title": "Više energije", "body": "Lakše ustaješ i manje ti treba kafa posle ručka.", "action": "Oceni energiju od 1 do 10.", "pose": "trk"},
+        {"word": "San", "title": "Bolji san", "body": "Brže zaspiš i ređe se budiš tokom noći.", "action": "Zapiši koliko si sati spavao.", "pose": "san"},
+        {"word": "Mir", "title": "Manje grickaš", "body": "Kad su obroci redovni, napadi gladi su ređi.", "action": "Primeti kada danas osetiš glad.", "pose": "obrok"}
+      ],
+      "cta": {"pose": "dupli", "teaser": "kako da ne odustaneš"},
+      "caption": "Vaga stoji, a ti misliš da ništa ne radi? Pogledaj ovih 5 znakova.\n\n1. Odeća ti je šira\n2. Jači si na treningu\n3. Imaš više energije\n4. Bolje spavaš\n5. Manje grickaš\n\nVaga meri kilograme. Napredak je mnogo više od toga.\n\nKoji od ovih si već primetio? Napiši u komentar.\n\nZaprati @fitnesdanijel za novi savet svakog ponedeljka, srede i petka.\n\n#napredak #mrsavljenje #fitnes #zdravenavike #vaga #zdravzivot #trening #ishrana #zdravlje #motivacija"
+    }
+  ]
+}

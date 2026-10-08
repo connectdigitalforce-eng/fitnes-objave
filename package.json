@@ -1,0 +1,9 @@
+{
+  "name": "fitnes-objave",
+  "private": true,
+  "description": "Pisave za izris slajdov",
+  "dependencies": {
+    "@fontsource/barlow": "^5.0.0",
+    "@fontsource/barlow-condensed": "^5.0.0"
+  }
+}
