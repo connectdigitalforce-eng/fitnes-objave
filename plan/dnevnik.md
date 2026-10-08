@@ -5,7 +5,7 @@ Vse ob 10:00 (Europe/Ljubljana), Instagram + TikTok.
 | Št. | Datum | Tip | Naslov |
 |---|---|---|---|
 | 1 | 2026-10-09 | plan | 5 navika važnijih od savršenog treninga |
-| 2 | 2026-10-12 | follow | 5 mitova o mršavljenju u koje još veruješ |
+| 2 | 2026-10-12 | follow | 5 užina koje stvarno zasite |
 | 3 | 2026-10-14 | plan | Kalorijski deficit u 5 koraka |
 | 4 | 2026-10-16 | follow | 5 vežbi za početak bez teretane |
 | 5 | 2026-10-19 | plan | Kilaža stoji? Proveri ovih 5 stvari |

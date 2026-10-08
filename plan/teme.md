@@ -23,7 +23,6 @@ Vsaka tema se razdela v 5 točk. Ko je tema objavljena, jo vpiši v `dnevnik.md`
 - Kako jesti zdravo u restoranu
 - Priprema obroka za početnike
 - 10 izvora proteina poređanih po ceni
-- Užine koje stvarno zasite
 - Slatko bez griže savesti: pametne zamene
 - Vlakna: zaboravljeni ključ sitosti
 - Suplementi: šta vredi novca, a šta ne
@@ -43,7 +42,6 @@ Vsaka tema se razdela v 5 točk. Ko je tema objavljena, jo vpiši v `dnevnik.md`
 ## Hujšanje
 - Masti na stomaku ne možeš da "ciljaš". Šta možeš?
 - Tečne kalorije: gde ih unosiš, a da ne znaš
-- Koliko kilograma nedeljno je zdravo izgubiti
 - Greška koju pravi skoro svaki početnik
 - Kako da zadržiš rezultat kad ga postigneš
 - Kako da kreneš ponovo posle duže pauze

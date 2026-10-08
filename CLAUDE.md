@@ -8,6 +8,7 @@ Ta repozitorij hrani vse za carousele profila **@fitnesdanijel** (Instagram `fit
 - Ritem: **ponedeljek, sreda, petek ob 10:00** (Europe/Ljubljana), samo **Instagram + TikTok**.
 - Omejitev brezplačnega Metricoola: 20 objav na mesec, vsako omrežje šteje posebej. Torej **največ 10 carouselov na koledarski mesec**. Števec se ponastavi 1. v mesecu. Facebooka ne dodajaj.
 - Cik-cak: objave se izmenjujejo med `"type": "plan"` (zaključek "Napiši PLAN u komentar i šaljem ti link u poruku", vodi na smrsajza21dan.com) in `"type": "follow"` (zaključek "Zaprati", z napovedjo naslednje teme). Zadnja objava v `plan/dnevnik.md` pove, kateri tip je na vrsti.
+- **Ne piši o tempu hujšanja.** Izdelek na smrsajza21dan.com obljublja določen rezultat v 21 dneh, zato objave ne smejo govoriti, koliko kilogramov na teden je zdravo, da je hitro hujšanje slabo, da hitre diete ne delujejo ali da je treba začeti z majhnim deficitom. Tem tem se izogni v celoti; ne trdi ne enega ne drugega.
 - Cilj vsebine: koristen nasvet, ki gradi zaupanje. Brez obljub o številu izgubljenih kilogramov, brez diagnoz. Trditve naj bodo zmerne in točne. Pri temah o bolečinah ali poškodbah v opis dodaj napotek k zdravniku ali fizioterapevtu.
 
 ## Dizajn (ne spreminjaj brez Danijelove želje)
